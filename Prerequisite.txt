@@ -1,0 +1,3 @@
+    * CSV file Containing translation of different language(with header having ISO language code) following Standard convention
+    * Install python
+    * Install excel read module (xlrd is a module that allows Python to read data from Excel files)
